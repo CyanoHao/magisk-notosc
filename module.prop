@@ -3,5 +3,5 @@ name=Noto SC
 version=1.004-1
 versionCode=1
 author=Cyano Hao
-description=Systemless patch for multi-weight Noto SC font (Sans, Serif and Condensed, for Android P).
+description=为 Android 9 “Pie” 简体中文用户补全缺失的 Sans、Serif、Condensed 字体样式。
 minMagisk=1500

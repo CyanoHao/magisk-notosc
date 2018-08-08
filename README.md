@@ -1,6 +1,6 @@
 # Noto SC: Android P 简体中文字体补丁
 
-Noto SC 是一个 [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) 模块，旨在为 Android 9 “Pie” 简体中文用户补全缺失的字体，让简体中文用户也能体验到 Material Design 中的丰富的字体样式变化。
+Noto SC 是一个 [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) 模块，旨在为 Android 9 “Pie” 简体中文用户补全缺失的字体样式，让简体中文用户也能体验到 Material Design 中的丰富的字体样式变化。
 
 Noto SC 补丁包括 3 个字族的 10 种字体样式。这些字体样式加上 Android 9 “Pie” 自带的 Noto Sans CJK SC Regular 和 Noto Serif CJK SC Regular，总共 12 个字体样式，恰好匹配多种西方语言的默认字体（Roboto、Noto Serif、Roboto Condensed）的各种样式。
 
